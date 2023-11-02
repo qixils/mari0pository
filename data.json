@@ -4,8 +4,8 @@
     {
       "type": "mappack",
       "name": "Retrush",
-      "description": "Blaze A Fearless Trail!",
-      "version": "1.0.0",
+      "description": "Blast Through The Past!",
+      "version": "1.0.1",
       "author": "Skysometric",
       "download": "https://www.dropbox.com/s/did8ruxscgdx8oj/Retrush.zip?dl=1",
       "filename": "Retrush.zip",
@@ -23,8 +23,8 @@
       "description": "I turned myself into a character",
       "version": "1.0.0",
       "author": "Lexi",
-      "download": "",
-      "filename": "",
+      "download": "https://cdn.discordapp.com/attachments/246729272549441536/1169770576475344977/lexi-crop-x2-bg.jpg?ex=65569cbe&is=654427be&hm=15265b2849e5624100f82841b9a1fc11de0f2b8d786f3ff37f77fbc0f8ab11ed&",
+      "filename": "lexi.png",
       "released": "2003-05-14",
       "updated": "2003-05-14",
       "game_version": {
