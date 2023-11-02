@@ -63,6 +63,10 @@
           "description": "The date the asset was last updated.",
           "type": "string",
           "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "icon": {
+          "description": "The link to the icon of the asset.",
+          "type": "string"
         }
       },
       "required": [
