@@ -67,6 +67,10 @@
         "icon": {
           "description": "The link to the icon of the asset.",
           "type": "string"
+        },
+        "filename": {
+          "description": "The filename of the asset.",
+          "type": "string"
         }
       },
       "required": [
@@ -76,7 +80,8 @@
         "author",
         "download",
         "released",
-        "updated"
+        "updated",
+        "filename"
       ],
       "allOf": [
         {
