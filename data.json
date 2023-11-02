@@ -16,6 +16,22 @@
         "ranges": [">=13.1"]
       },
       "icon": "https://i.imgur.com/r7LfCo6.png"
+    },
+    {
+      "type": "character",
+      "name": "Lexi",
+      "description": "I turned myself into a character",
+      "version": "1.0.0",
+      "author": "Lexi",
+      "download": "",
+      "filename": "",
+      "released": "2003-05-14",
+      "updated": "2003-05-14",
+      "game_version": {
+        "derivative": ["AE"],
+        "ranges": [">=13.1"]
+      },
+      "icon": "https://cdn.discordapp.com/attachments/246729272549441536/1169770576475344977/lexi-crop-x2-bg.jpg?ex=65569cbe&is=654427be&hm=15265b2849e5624100f82841b9a1fc11de0f2b8d786f3ff37f77fbc0f8ab11ed&"
     }
   ]
 }
