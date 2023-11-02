@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/qixils/mari0pository/main/data.schema.json",
   "title": "Mari0pository",
   "description": "A repository of content for Mari0 and its derivatives.",
