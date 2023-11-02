@@ -131,6 +131,25 @@
               "game_version"
             ]
           }
+        },
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "type": "string",
+                "const": "mappack"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "background": {
+                "description": "The level to show in the background of the title screen.",
+                "type": "string",
+                "pattern": "^[0-9a-zA-Z]-[0-9a-zA-Z]$"
+              }
+            }
+          }
         }
       ]
     }
