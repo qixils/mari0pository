@@ -4,6 +4,7 @@
     {
       "type": "mappack",
       "name": "Retrush",
+      "description": "Blaze A Fearless Trail!",
       "version": "1.0.0",
       "author": "Skysometric",
       "download": "https://www.dropbox.com/s/did8ruxscgdx8oj/Retrush.zip?dl=1",
@@ -13,7 +14,8 @@
       "game_version": {
         "derivative": ["AE"],
         "ranges": [">=13.1"]
-      }
+      },
+      "icon": "https://i.imgur.com/r7LfCo6.png"
     }
   ]
 }

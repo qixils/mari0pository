@@ -38,6 +38,11 @@
           "description": "A description of the asset.",
           "type": "string"
         },
+        "short_description": {
+          "description": "A short description of the asset.",
+          "type": "string",
+          "maxLength": 51
+        },
         "version": {
           "description": "The version of the asset.",
           "type": "string"
