@@ -91,19 +91,24 @@
                 "type": "object",
                 "properties": {
                   "derivative": {
-                    "description": "Which derivative of the game this asset was created for.",
-                    "type": "string",
-                    "enum": [
-                      "1.6",
-                      "SE",
-                      "AE",
-                      "CE"
-                    ]
-                  },
-                  "ranges": {
-                    "description": "A list of version ranges this asset is compatible with. The components of a version range separated by a dash are AND'd, while the components separated into different items in the array are OR'd.",
+                    "description": "Which derivative(s) of the game this asset was created for.",
                     "type": "array",
                     "items": {
+                      "description": "A derivative of the game.",
+                      "type": "string",
+                      "enum": [
+                        "1.6",
+                        "SE",
+                        "AE",
+                        "CE"
+                      ]
+                    }
+                  },
+                  "ranges": {
+                    "description": "A list of version ranges this asset is compatible with. The components of a version range separated by a space are AND'd, while the components separated into different items in the array are OR'd.",
+                    "type": "array",
+                    "items": {
+                      "description": "A version range. The components separated by a space are AND'd.",
                       "type": "string"
                     }
                   }

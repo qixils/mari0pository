@@ -10,10 +10,8 @@
       "released": "2023-04-27",
       "updated": "2023-04-27",
       "game_version": {
-        "derivative": "AE",
-        "ranges": [
-          ">=13.1"
-        ]
+        "derivative": ["AE"],
+        "ranges": [">=13.1"]
       }
     }
   ]
