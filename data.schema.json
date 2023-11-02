@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/qixils/mari0pository/main/data.schema.json",
+  "title": "Mari0pository",
+  "description": "A repository of content for Mari0 and its derivatives.",
+  "type": "object",
+  "properties": {
+    "assets": {
+      "description": "The assets in the repository.",
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/asset"
+      }
+    }
+  },
+  "$defs": {
+    "asset": {
+      "description": "An asset for Mari0.",
+      "type": "object",
+      "properties": {
+        "type": {
+          "description": "The type of the asset.",
+          "type": "string",
+          "enum": [
+            "mappack",
+            "tileset",
+            "music",
+            "sound",
+            "character",
+            "enemy"
+          ]
+        },
+        "name": {
+          "description": "The name of the asset.",
+          "type": "string"
+        },
+        "description": {
+          "description": "A description of the asset.",
+          "type": "string"
+        },
+        "version": {
+          "description": "The version of the asset.",
+          "type": "string"
+        },
+        "author": {
+          "description": "The author of the asset.",
+          "type": "string"
+        },
+        "license": {
+          "description": "The license of the asset.",
+          "type": "string"
+        },
+        "download": {
+          "description": "The download link of the asset.",
+          "type": "string"
+        },
+        "released": {
+          "description": "The date the asset was released.",
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        },
+        "updated": {
+          "description": "The date the asset was last updated.",
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+        }
+      },
+      "required": [
+        "type",
+        "name",
+        "version",
+        "author",
+        "download",
+        "released",
+        "updated"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "type": {
+                "pattern": "(mappack|tileset|character|enemy)"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "game_version": {
+                "description": "The version of the game this asset is tied to.",
+                "type": "object",
+                "properties": {
+                  "derivative": {
+                    "description": "Which derivative of the game this asset was created for.",
+                    "type": "string",
+                    "enum": [
+                      "1.6",
+                      "SE",
+                      "AE",
+                      "CE"
+                    ]
+                  },
+                  "ranges": {
+                    "description": "A list of version ranges this asset is compatible with. The components of a version range separated by a dash are AND'd, while the components separated into different items in the array are OR'd.",
+                    "type": "array",
+                    "items": "string"
+                  }
+                },
+                "required": [
+                  "derivative"
+                ]
+              }
+            },
+            "required": [
+              "game_version"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

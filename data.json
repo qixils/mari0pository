@@ -1,0 +1,20 @@
+{
+  "$schema": "data.schema.json",
+  "assets": [
+    {
+      "type": "mappack",
+      "name": "Retrush",
+      "version": "1.0.0",
+      "author": "Skysometric",
+      "download": "https://www.dropbox.com/s/did8ruxscgdx8oj/Retrush.zip?dl=1",
+      "released": "2023-04-27",
+      "updated": "2023-04-27",
+      "game_version": {
+        "derivative": "AE",
+        "ranges": [
+          ">=13.1"
+        ]
+      }
+    }
+  ]
+}
