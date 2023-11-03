@@ -5,7 +5,10 @@ and its derivatives like [Alesan's Entities](https://github.com/alesan99/mari0_a
 
 ## Contributing
 
-To add to the repository, you must create a pull request which modifies [data.json](data.json) to describe your content.
+To add to the repository, you must create a pull request which modifies [data.json](data.json) to include your content.
+
+Alternatively, you can [create an issue](https://github.com/qixils/mari0pository/issues/new/choose) describing your
+asset and someone else may add it for you.
 
 ## Asset Schema
 
