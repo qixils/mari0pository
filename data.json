@@ -3,6 +3,41 @@
   "assets": [
     {
       "type": "mappack",
+      "name": "Mari0 Odyssey",
+      "long_name": "Super Mari0 Odyssey",
+      "description": "Travel Around The World",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": "https://www.dropbox.com/s/80fzcpsblh248q4/mario_odyssey.zip?dl=1",
+      "filename": "mario_odyssey.zip",
+      "released": "2018-10-19",
+      "updated": "2020-08-29",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Super Mari0 Odyssey.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5251"
+    },
+    {
+      "type": "mappack",
+      "name": "SMM2 Compilation",
+      "long_name": "Super Mario Maker 2 Compilation",
+      "description": "Venture into the new worlds of Mario Maker 2!",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": "https://www.dropbox.com/s/3g1760iqt1dgc6y/smm2_compilation.zip?dl=1",
+      "filename": "smm2_compilation.zip",
+      "released": "2019-08-14",
+      "updated": "2019-08-14",
+      "game_version": {
+        "derivative": ["AE"],
+        "ranges": [">=12"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Super Mario Maker 2 Compilation.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5340"
+    },
+    {
+      "type": "mappack",
       "name": "Retrush",
       "description": "Blast Through The Past!",
       "version": "1.0.1",
@@ -15,7 +50,24 @@
         "derivative": ["AE"],
         "ranges": [">=13.1"]
       },
-      "icon": "https://i.imgur.com/r7LfCo6.png"
+      "icon": "https://i.imgur.com/r7LfCo6.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5537"
+    },
+    {
+      "type": "mappack",
+      "name": "Project SNES v0.2",
+      "long_name": "Project SNES Demo 2",
+      "description": "Embark on a journey to save the princess!",
+      "version": "0.2.0",
+      "author": "PSNES Devs.",
+      "download": "https://www.dropbox.com/s/y07jdrcuy3fc16h/psnes_demo_2.zip?dl=1",
+      "filename": "psnes_demo_2.zip",
+      "released": "2022-08-28",
+      "updated": "2022-08-28",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Project SNES.png"
     },
     {
       "type": "character",
@@ -26,7 +78,7 @@
       "download": "https://cdn.discordapp.com/attachments/246729272549441536/1169770576475344977/lexi-crop-x2-bg.jpg?ex=65569cbe&is=654427be&hm=15265b2849e5624100f82841b9a1fc11de0f2b8d786f3ff37f77fbc0f8ab11ed&",
       "filename": "lexi.png",
       "released": "2003-05-14",
-      "updated": "2003-05-14",
+      "updated": "2023-11-02",
       "game_version": {
         "derivative": ["AE"],
         "ranges": [">=13.1"]
