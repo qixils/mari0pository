@@ -33,38 +33,46 @@
         "name": {
           "description": "The short name of the asset.",
           "type": "string",
+          "minLength": 1,
           "maxLength": 17
         },
         "long_name": {
           "description": "The long name of the asset.",
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "description": {
           "description": "A short description of the asset.",
           "type": "string",
           "pattern": "^([^\n]{1,17}\n?){1,3}$",
+          "minLength": 1,
           "maxLength": 53
         },
         "long_description": {
           "description": "A long description of the asset.",
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "version": {
           "description": "The version of the asset.",
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "author": {
           "description": "The author of the asset.",
           "type": "string",
-          "maxLength": 17
+          "minLength": 1,
+          "maxLength": 14
         },
         "license": {
-          "description": "The license of the asset.",
-          "type": "string"
+          "description": "The license of the asset. Should be an SPDX identifier.",
+          "type": "string",
+          "minLength": 1
         },
         "download": {
           "description": "The download link of the asset.",
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "released": {
           "description": "The date the asset was released.",
@@ -78,15 +86,18 @@
         },
         "icon": {
           "description": "The link to the icon of the asset.",
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "filename": {
           "description": "The filename of the asset.",
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         },
         "homepage": {
           "description": "The link to the homepage of the asset.",
-          "type": "string"
+          "type": "string",
+          "minLength": 1
         }
       },
       "required": [
@@ -134,7 +145,8 @@
                     "type": "array",
                     "items": {
                       "description": "A version range. The components separated by a space are AND'd.",
-                      "type": "string"
+                      "type": "string",
+                      "minLength": 1
                     }
                   }
                 },
