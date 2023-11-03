@@ -15,7 +15,7 @@
       "game_version": {
         "derivative": ["AE"]
       },
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Super Mari0 Odyssey.png",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMari0Odyssey.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5251"
     },
     {
@@ -33,7 +33,7 @@
         "derivative": ["AE"],
         "ranges": [">=12"]
       },
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Super Mario Maker 2 Compilation.png",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMarioMaker2Compilation.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5340"
     },
     {
@@ -67,7 +67,7 @@
       "game_version": {
         "derivative": ["AE"]
       },
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Project SNES.png"
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/ProjectSNES.png"
     },
     {
       "type": "character",
