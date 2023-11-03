@@ -9,6 +9,8 @@ To add to the repository, you must create a pull request which modifies [data.js
 
 ## Asset Schema
 
+The following properties are available for all assets.
+
 | Property           | Description                                                                                     | Required? |
 |--------------------|-------------------------------------------------------------------------------------------------|:---------:|
 | `type`             | The type of the asset. Must be `mappack`, `tileset`, `music`, `sound`, `character`, or `enemy`. |     ✅     |
@@ -31,9 +33,9 @@ To add to the repository, you must create a pull request which modifies [data.js
 The following additional properties are available for assets that are created for a specific version of the game.
 This currently includes mappacks, tilesets, characters, and enemies.
 
-| Property       | Description                                    | Required? |
-|----------------|------------------------------------------------|:---------:|
-| `game_version` | The version of the game this asset is tied to. |     ✅     |
+| Property       | Description                                                                                     | Required? |
+|----------------|-------------------------------------------------------------------------------------------------|:---------:|
+| `game_version` | The version of the game this asset is tied to. See [Game Version Schema](#game-version-schema). |     ✅     |
 
 #### Game Version Schema
 
