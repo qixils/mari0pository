@@ -70,9 +70,24 @@
           "minLength": 1
         },
         "download": {
-          "description": "The download link of the asset.",
-          "type": "string",
-          "minLength": 1
+          "description": "The download information of the asset.",
+          "type": "object",
+          "properties": {
+            "url": {
+              "description": "The URL to download the asset from.",
+              "type": "string",
+              "minLength": 1
+            },
+            "filename": {
+              "description": "The filename of the asset.",
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "url",
+            "filename"
+          ]
         },
         "released": {
           "description": "The date the asset was released.",
@@ -89,11 +104,6 @@
           "type": "string",
           "minLength": 1
         },
-        "filename": {
-          "description": "The filename of the asset.",
-          "type": "string",
-          "minLength": 1
-        },
         "homepage": {
           "description": "The link to the homepage of the asset.",
           "type": "string",
@@ -105,10 +115,20 @@
         "name",
         "version",
         "author",
-        "download",
         "released",
-        "updated",
-        "filename"
+        "updated"
+      ],
+      "anyOf": [
+        {
+          "required": [
+            "download"
+          ]
+        },
+        {
+          "required": [
+            "homepage"
+          ]
+        }
       ],
       "allOf": [
         {
