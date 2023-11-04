@@ -78,6 +78,82 @@
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/ProjectSNES.png"
     },
     {
+      "type": "mappack",
+      "name": "Dream Vacation",
+      "description": "its the perfect vacation... yet somethings wrong.",
+      "version": "1.1.0",
+      "author": "ztstyle",
+      "download": {
+        "url": "https://mari0pository.us-east-1.linodeobjects.com/Dream_Vacation.zip",
+        "filename": "Dream_Vacation.zip"
+      },
+      "game_version": {
+        "derivative": ["AE"],
+        "ranges": [">=13"],
+        "$comment": ">=13d"
+      },
+      "released": "2021-06-17",
+      "updated": "2021-10-24",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5450",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/DreamVacation.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Simile Thoughts",
+      "description": "challenging logical puzzles for mari0!",
+      "version": "1.0.1",
+      "author": "hugobdesigner",
+      "download": {
+        "url": "https://www.dropbox.com/s/m9pd7r5y8empwf2/Simile%20Thoughts.zip?dl=1",
+        "filename": "Simile_Thoughts.zip"
+      },
+      "game_version": {
+        "derivative": ["1.6", "AE"]
+      },
+      "released": "2021-06-30",
+      "updated": "2021-07-19",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5451",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SimileThoughts.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Cartridge Tilt",
+      "long_name": "Cartridge Tilt (AE)",
+      "description": "Random generated levels!",
+      "version": "1.0.0",
+      "author": "skysometric",
+      "download": {
+        "url": "https://www.dropbox.com/s/h8rxv6i2ebhe0cr/Cartridge%20Tilt%20%28AE%29.zip?dl=1",
+        "filename": "Cartridge_Tilt.zip"
+      },
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "released": "2020-12-10",
+      "updated": "2020-12-10",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5396",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/CartridgeTilt.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Cartridge Tilt",
+      "long_name": "Cartridge Tilt (1.6)",
+      "description": "Random generated levels!",
+      "version": "1.0.0",
+      "author": "skysometric",
+      "download": {
+        "url": "https://www.dropbox.com/s/j1e43a05uzsueya/Cartridge%20Tilt%20%281.6%29.zip?dl=1",
+        "filename": "Cartridge_Tilt.zip"
+      },
+      "game_version": {
+        "derivative": ["1.6"]
+      },
+      "released": "2020-12-10",
+      "updated": "2020-12-10",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5396",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/CartridgeTilt.png"
+    },
+    {
       "type": "character",
       "name": "Sonic",
       "description": "Play with this Sonic character!",
