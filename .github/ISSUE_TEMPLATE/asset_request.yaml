@@ -3,7 +3,7 @@ description: Request an asset to be added to the repository
 title: "[Request] "
 labels: ["request"]
 assignees:
-  - octocat
+  - qixils
 body:
   - type: markdown
     attributes:
