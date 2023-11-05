@@ -23,11 +23,13 @@
           "type": "string",
           "enum": [
             "mappack",
+            "character",
+            "enemy",
             "tileset",
             "music",
             "sound",
-            "character",
-            "enemy"
+            "video",
+            "other"
           ]
         },
         "name": {

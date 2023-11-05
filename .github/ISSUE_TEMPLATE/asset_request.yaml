@@ -1,0 +1,120 @@
+name: Asset Request
+description: Request an asset to be added to the repository
+title: "[Request] "
+labels: ["request"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please enter in the following information about your asset.
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: The type of asset you are submitting.
+      options:
+        - Mappack
+        - Character
+        - Enemy
+        - Tileset
+        - Music
+        - Sound
+        - Video
+        - Other
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: game-version
+    attributes:
+      label: Game Version
+      description: If applicable, the version(s) of the game your asset is created for or tested on.
+      options:
+        - "1.6"
+        - SE
+        - CE
+        - AE
+      multiple: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The name of your asset. As this is displayed in-game, this must be at most 17 characters long.
+      placeholder: ex. "My Awesome Asset"
+    validations:
+      required: true
+  - type: input
+    id: full-name
+    attributes:
+      label: Full Name
+      description: The full name of your asset, if too long to fit in the name field.
+      placeholder: ex. "My Incredibly Awesome Mappack"
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: A short description of your asset. Maximum of 51 characters (17 characters per line, 3 lines).
+      placeholder: ex. "This mappack is awesome!"
+  - type: textarea
+    id: full-description
+    attributes:
+      label: Full Description
+      description: A full description of your asset, if too long to fit in the description field.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The version of your asset.
+      placeholder: ex. "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: released
+    attributes:
+      label: Release Date
+      description: The date your asset was released in YYYY-MM-DD format.
+      placeholder: ex. "2012-03-03"
+    validations:
+      required: true
+  - type: input
+    id: updated
+    attributes:
+      label: Update Date
+      description: The date your asset was last updated in YYYY-MM-DD format.
+      placeholder: ex. "2012-03-10"
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: The author of your asset. We'll use your GitHub username if unspecified. Maximum of 14 characters.
+      placeholder: ex. "Maurice"
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: The license of your asset. Should be an [SPDX license identifier](https://spdx.org/licenses/).
+      placeholder: ex. "MIT"
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage
+      description: The homepage of your asset. Usually a link to your GitHub repository or forum post.
+      placeholder: ex. "https://example.com"
+  - type: input
+    id: download
+    attributes:
+      label: Download
+      description: The download link of your asset. You can upload your asset in a comment if you want us to host it.
+      placeholder: ex. "https://dropbox.com"
+  - type: input
+    id: icon
+    attributes:
+      label: Icon
+      description: The icon of your asset. You can upload your icon in a comment if you want us to host it.
+      placeholder: ex. "https://imgur.com"
