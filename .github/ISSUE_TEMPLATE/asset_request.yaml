@@ -106,15 +106,15 @@ body:
       label: Homepage
       description: The homepage of your asset. Usually a link to your GitHub repository or forum post.
       placeholder: ex. "https://example.com"
-  - type: input
+  - type: textarea
     id: download
     attributes:
       label: Download
-      description: The download link of your asset. You can upload your asset in a comment if you want us to host it.
+      description: The download link of your asset. You can upload your asset in the textarea if you want us to host it.
       placeholder: ex. "https://dropbox.com"
-  - type: input
+  - type: textarea
     id: icon
     attributes:
       label: Icon
-      description: The icon of your asset. You can upload your icon in a comment if you want us to host it.
+      description: The icon of your asset. You can upload your icon in the textarea if you want us to host it.
       placeholder: ex. "https://imgur.com"
