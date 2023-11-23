@@ -117,6 +117,44 @@
     },
     {
       "type": "mappack",
+      "name": "Metr0id",
+      "description": "Save planet Zebes\nfrom all the\nMetroids!",
+      "long_description": "Save planet Zebes from all the Metroids!",
+      "version": "2.0.0",
+      "author": "TipouStar",
+      "download": {
+        "url": "https://forum.stabyourself.net/download/file.php?id=1926",
+        "filename": "Metr0id.zip"
+      },
+      "released": "2021-07-11",
+      "updated": "2023-03-11",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Metr0id.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5453"
+    },
+    {
+      "type": "character",
+      "name": "Samus",
+      "description": "Samus character\nfor the Metr0id\nmappack!",
+      "long_description": "Samus character for the Metr0id mappack!",
+      "version": "2.0.0",
+      "author": "TipouStar",
+      "download": {
+        "url": "https://forum.stabyourself.net/download/file.php?id=1924",
+        "filename": "samus.zip"
+      },
+      "released": "2021-07-11",
+      "updated": "2023-03-11",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/samus.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5453"
+    },
+    {
+      "type": "mappack",
       "name": "Cartridge Tilt",
       "long_name": "Cartridge Tilt (AE)",
       "description": "Random generated levels!",
