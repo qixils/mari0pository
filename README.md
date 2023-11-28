@@ -39,14 +39,6 @@ This currently includes mappacks, tilesets, characters, and enemies.
 |----------------|-------------------------------------------------------------------------------------------------|:---------:|
 | `game_version` | The version of the game this asset is tied to. See [Game Version Schema](#game-version-schema). |     ✅     |
 
-### Mappack-Specific Asset Schema
-
-The following additional properties are available for mappacks.
-
-| Property     | Description                                              | Required? |
-|--------------|----------------------------------------------------------|:---------:|
-| `background` | The level to show in the background of the title screen. |     ❌     |
-
 ## Download Schema
 
 | Property   | Description                            | Required? |
