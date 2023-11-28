@@ -117,6 +117,25 @@
     },
     {
       "type": "mappack",
+      "name": "City In Shadows",
+      "description": "One last chance\nto claim back\nthe city...",
+      "long_description": "One last chance to claim back the city...",
+      "version": "1.0.1",
+      "author": "Aidan",
+      "download": {
+        "url": "https://github.com/greatbritdan/City-In-Shadows/archive/refs/heads/main.zip",
+        "filename": "City-In-Shadows.zip"
+      },
+      "released": "2023-11-26",
+      "updated": "2023-11-27",
+      "game_version": {
+        "derivative": ["AE"],
+      },
+      "icon": "https://raw.githubusercontent.com/greatbritdan/City-In-Shadows/main/icon.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5608"
+    },
+    {
+      "type": "mappack",
       "name": "Metr0id",
       "description": "Save planet Zebes\nfrom all the\nMetroids!",
       "long_description": "Save planet Zebes from all the Metroids!",
