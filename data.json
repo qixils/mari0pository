@@ -193,6 +193,26 @@
     },
     {
       "type": "mappack",
+      "name": "GoldshroomDX",
+      "long_name": "Goldshroom Island DX",
+      "description": "The ultimate     \nchallenge is to\ncollect 99 coins.",
+      "long_description": "Save Goldshroom Island from Bowser! And collect all the 99 mushroom coins for an extra challenge.",
+      "version": "2.0.0",
+      "author": "TipouStar",
+      "download": {
+        "url": "https://download1582.mediafire.com/ucn2golclfkgSGGsV9rO1gWDjLV4qtcGC7vMD8vD2uvlg7Ehvq5dLJbmnfWy0Q5SxDLelycdFE9XCcCgg4UTfpG0hsUvZzdBnW00H5Z5QiEn-22XxOekiPmpm9zyq-BY03Cc8aLdJkw9L0NxSzYt_Pu_RBIR47eznLXyj9pDN9I/xf5hb49rufe339q/Goldshroom1DX.zip",
+        "filename": "GoldshroomDX.zip"
+      },
+      "released": "2021-11-20",
+      "updated": "2024-12-17",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/GoldshroomDX.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5474"
+    },
+    {
+      "type": "mappack",
       "name": "Metr0id",
       "description": "Save planet Zebes\nfrom all the\nMetroids!",
       "long_description": "Save planet Zebes from all the Metroids!",
