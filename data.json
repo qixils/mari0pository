@@ -41,6 +41,25 @@
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5340"
     },
     {
+      "type": "mappack",
+      "name": "The Lost Levels",
+      "long_name": "Super Mario Bros.: The Lost Levels",
+      "description": "The Japanese\nversion of SMB2.\nBy Renhoex.Edited",
+      "version": "2.0.0",
+      "author": "nintendo",
+      "download": {
+        "url": "https://www.dropbox.com/s/wqywfymz4r7con4/smb2j.zip?dl=1",
+        "filename": "smb2j.zip"
+      },
+      "released": "2012-02-11",
+      "updated": "2015-11-21",
+      "game_version": {
+        "derivative": ["AE"]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/smb2j.png",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=266"
+    },
+    {
       "type": "character",
       "name": "Mari0 Kirby (V3)",
       "description": "Inhale enemies to\ncopy abilities in\na new playstyle",
@@ -74,7 +93,7 @@
     {
       "type": "mappack",
       "name": "Retrush",
-      "description": "Blast Through\nThe Past!",
+      "description": "Blast through the\npast, and blaze a\nfearless trail!",
       "version": "1.0.1",
       "author": "Skysometric",
       "download": {
