@@ -15,7 +15,9 @@
       "released": "2018-10-19",
       "updated": "2020-08-29",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMari0Odyssey.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5251"
@@ -34,8 +36,12 @@
       "released": "2019-08-14",
       "updated": "2019-08-14",
       "game_version": {
-        "derivative": ["AE"],
-        "ranges": [">=12"]
+        "derivative": [
+          "AE"
+        ],
+        "ranges": [
+          ">=12"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMarioMaker2Compilation.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5340"
@@ -54,7 +60,9 @@
       "released": "2012-02-11",
       "updated": "2015-11-21",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/smb2j.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=266"
@@ -68,7 +76,9 @@
       "released": "2022-12-16",
       "updated": "2023-08-23",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=21&t=5533",
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Kirby.png"
@@ -86,7 +96,9 @@
       "released": "2020-06-22",
       "updated": "2020-06-22",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Sonic.png"
     },
@@ -103,8 +115,12 @@
       "released": "2023-04-27",
       "updated": "2023-04-27",
       "game_version": {
-        "derivative": ["AE"],
-        "ranges": [">=13.1"]
+        "derivative": [
+          "AE"
+        ],
+        "ranges": [
+          ">=13.1"
+        ]
       },
       "icon": "https://i.imgur.com/r7LfCo6.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5537"
@@ -120,7 +136,10 @@
         "filename": "Simile_Thoughts.zip"
       },
       "game_version": {
-        "derivative": ["1.6", "AE"]
+        "derivative": [
+          "1.6",
+          "AE"
+        ]
       },
       "released": "2021-06-30",
       "updated": "2021-07-19",
@@ -130,7 +149,7 @@
     {
       "type": "mappack",
       "name": "Dream Vacation",
-      "description": "it's the perfect\nvacation... yet\nsomethings wrong.",
+      "description": "It's the perfect\nvacation... yet\nsomethings wrong.",
       "version": "1.1.0",
       "author": "ztstyle",
       "download": {
@@ -138,8 +157,12 @@
         "filename": "Dream_Vacation.zip"
       },
       "game_version": {
-        "derivative": ["AE"],
-        "ranges": [">=13"],
+        "derivative": [
+          "AE"
+        ],
+        "ranges": [
+          ">=13"
+        ],
         "$comment": ">=13d"
       },
       "released": "2021-06-17",
@@ -161,7 +184,9 @@
       "released": "2023-11-26",
       "updated": "2023-11-27",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/greatbritdan/City-In-Shadows/main/icon.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5608"
@@ -180,7 +205,9 @@
       "released": "2021-07-11",
       "updated": "2023-03-11",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Metr0id.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5453"
@@ -199,7 +226,9 @@
       "released": "2021-07-11",
       "updated": "2023-03-11",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/samus.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5453"
@@ -216,7 +245,9 @@
         "filename": "Cartridge_Tilt.zip"
       },
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "released": "2020-12-10",
       "updated": "2020-12-10",
@@ -235,7 +266,9 @@
         "filename": "Cartridge_Tilt.zip"
       },
       "game_version": {
-        "derivative": ["1.6"]
+        "derivative": [
+          "1.6"
+        ]
       },
       "released": "2020-12-10",
       "updated": "2020-12-10",
@@ -256,9 +289,677 @@
       "released": "2022-08-28",
       "updated": "2022-08-28",
       "game_version": {
-        "derivative": ["AE"]
+        "derivative": [
+          "AE"
+        ]
       },
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/ProjectSNES.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Gravitas (AE)",
+      "description": "What do you mean\njumpman can't\njump?",
+      "version": "2.1.0",
+      "author": "skysometric",
+      "download": {
+        "url": "https://www.dropbox.com/s/bbivrt6z91go4x7/Gravitas.zip?dl=1",
+        "filename": "GravitasAE.zip"
+      },
+      "released": "2013-12-21",
+      "updated": "2020-09-12",
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=3826",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Gravitas.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Gravitas (SE/CE)",
+      "description": "What do you mean\njumpman can't\njump?",
+      "version": "1.0.0",
+      "author": "skysometric",
+      "download": {
+        "url": "https://www.dropbox.com/s/9q0xf0w2xvwiy6z/Gravitas.zip?dl=1",
+        "filename": "GravitasSE.zip"
+      },
+      "released": "2013-12-21",
+      "updated": "2020-09-12",
+      "game_version": {
+        "derivative": [
+          "SE",
+          "CE"
+        ]
+      },
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=3826",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Gravitas.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Gravitas (1.6)",
+      "description": "What do you mean\njumpman can't\njump?",
+      "version": "1.0.0",
+      "author": "skysometric",
+      "download": {
+        "url": "https://www.dropbox.com/s/9fu35b9nlf9e575/Gravitas.zip?dl=1",
+        "filename": "Gravitas16.zip"
+      },
+      "released": "2013-12-21",
+      "updated": "2020-09-12",
+      "game_version": {
+        "derivative": [
+          "1.6"
+        ]
+      },
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=3826",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Gravitas.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Mad Science",
+      "description": "Mario is totally\nsafe here.",
+      "version": "1.2.0",
+      "author": "hansagain",
+      "download": {
+        "url": "https://www.dropbox.com/s/smvj5ky3zcppdmn/Mad%20Science%20AE.zip?dl=1",
+        "filename": "MadScienceAE.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-09-09",
+      "updated": "2020-09-09",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5379&p=137472",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/MadScience.png"
+    },
+    {
+      "type": "mappack",
+      "name": "you just",
+      "description": "posted cringe",
+      "version": "1.0.0",
+      "author": "subpixuru",
+      "download": {
+        "url": "https://www.dropbox.com/s/1znvs0ccu3afa2c/cringe.zip?dl=1",
+        "filename": "cringe.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-06-16",
+      "updated": "2020-06-16",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/cringe.png"
+    },
+    {
+      "type": "mappack",
+      "name": "The Hiden Ones",
+      "description": "- Can you find?\n- The hidden ones",
+      "version": "1.0.0",
+      "author": "aidan",
+      "download": {
+        "url": "https://www.dropbox.com/sh/ssulb9rcxtor7hk/AACeVx5HbebfwD5SYW_ki7DEa?dl=1",
+        "filename": "TheHiddenOnes.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-06-29",
+      "updated": "2020-06-29",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/TheHiddenOnes.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Super Mario World",
+      "long_name": "Super Mario World: Yoshi's Island",
+      "description": "Super Mario World\n-Yoshi's Island -",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/notppwt0kdsnd3u/smw_comp.zip?dl=1",
+        "filename": "smw_comp.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-04-22",
+      "updated": "2020-04-22",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5341",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMarioWorld.png"
+    },
+    {
+      "type": "character",
+      "name": "Shrek Character",
+      "description": "Character skin of Shrek",
+      "version": "1.0.0",
+      "author": "georgeharold1",
+      "download": {
+        "url": "https://mari0pository.us-east-1.linodeobjects.com/ShrekCharacter.zip",
+        "filename": "ShrekCharacter.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-07-11",
+      "updated": "2020-07-11",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Shrek.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Super Shrek Bros.",
+      "description": "The SMB version of Shrek 1",
+      "version": "1.0.0",
+      "author": "georgeharold1",
+      "download": {
+        "url": "https://mari0pository.us-east-1.linodeobjects.com/ShrekMappack.zip",
+        "filename": "ShrekCharacter.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-07-11",
+      "updated": "2020-07-11",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Shrek.png"
+    },
+    {
+      "type": "mappack",
+      "name": "SMB Upside Down",
+      "long_name": "Super Mario Bros. Upside Down",
+      "description": "Classic levels\nupside down\nuse portal gun!",
+      "version": "1.0.0",
+      "author": "pbalazs",
+      "download": {
+        "url": "https://www.dropbox.com/s/j80809m5t9fuh81/upside_down.zip?dl=1",
+        "filename": "upside_down.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-04-20",
+      "updated": "2020-04-20",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SMBUpsideDown.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Windows 95 World",
+      "description": "Mario is trying\nto fix his PC.\nTripleXero's idea",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/2nw1xzugu49o5lo/windows_95_world.zip?dl=1",
+        "filename": "windows_95_world.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-04-22",
+      "updated": "2020-04-22",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5339",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Windows95World.png"
+    },
+    {
+      "type": "mappack",
+      "name": "0'Brothers (AE)",
+      "description": "32 new old school\nlevels. Only for\nsuper players.",
+      "version": "1.0.0",
+      "author": "Baf",
+      "download": {
+        "url": "https://www.dropbox.com/s/kijbf29aiw6eqyw/0brothers.zip?dl=1",
+        "filename": "0BrothersAE.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2012-04-22",
+      "updated": "2012-04-22",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=1540",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/0Brothers.png"
+    },
+    {
+      "type": "mappack",
+      "name": "0'Brothers (1.6)",
+      "description": "32 new old school\nlevels. Only for\nsuper players.",
+      "version": "1.0.0",
+      "author": "Baf",
+      "download": {
+        "url": "https://mari0pository.us-east-1.linodeobjects.com/0Brothers16.zip",
+        "filename": "0Brothers16.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "1.6"
+        ]
+      },
+      "released": "2012-04-22",
+      "updated": "2012-04-22",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=1540",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/0Brothers.png"
+    },
+    {
+      "type": "mappack",
+      "name": "The Witch Village",
+      "description": "Explore the\nvillage and find\nthe witches.",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/qyazvbohkjdkcz2/witch_village.zip?dl=1",
+        "filename": "witch_village.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2017-10-21",
+      "updated": "2017-10-21",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5167&p=131443",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/WitchVillage.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Grumbo Bros.",
+      "description": "Get coins and stuff",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/uxzwqj53zcs1eg0/grumbo.zip?dl=1",
+        "filename": "grumbo.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2019-01-30",
+      "updated": "2019-01-30",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/grumbo.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Mariolander",
+      "description": "Find princess who\ncan repair your\nportalgun",
+      "version": "1.0.0",
+      "author": "gallas",
+      "download": {
+        "url": "https://www.dropbox.com/s/jpxvfog7q2op9en/mariolander.zip?dl=1",
+        "filename": "mariolander.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2019-07-04",
+      "updated": "2019-07-04",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Mariolander.png"
+    },
+    {
+      "type": "mappack",
+      "name": "In The Clouds",
+      "description": "Mario goes far up\nin the sky cause\nwhy not",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/enovrq4p7ogt3bj/in_the_clouds.zip?dl=1",
+        "filename": "in_the_clouds.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2019-01-22",
+      "updated": "2019-01-22",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/InTheClouds.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Mario Special",
+      "long_name": "Super Mario Bros. Special",
+      "description": "Licensed sequel\nto SMB on home\ncomputers",
+      "version": "1.0.0",
+      "author": "Hudson Soft",
+      "download": {
+        "url": "https://www.dropbox.com/s/f4hoscq70pbxlm7/smb_special.zip?dl=1",
+        "filename": "smb_special.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2019-07-04",
+      "updated": "2019-07-04",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMarioBrosSpecial.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Up and Away",
+      "description": "Remake of my\nfirst mappack",
+      "version": "1.0.0",
+      "author": "aidan",
+      "download": {
+        "url": "https://www.dropbox.com/sh/1r31r9qycd4tpo8/AAABJDMQEorgMkSOi5H7XfEXa?dl=1",
+        "filename": "up_and_away.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-08-31",
+      "updated": "2020-08-31",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/UpAndAway.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Mario Bros. 3",
+      "long_name": "Super Mario Bros. 3",
+      "description": "Classic levels by\nNemesis",
+      "version": "1.0.0",
+      "author": "Nintendo",
+      "download": {
+        "url": "https://www.dropbox.com/s/atyzbo29ex4mhp6/smb3-ae.zip?dl=1",
+        "filename": "smb3-ae.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2019-09-15",
+      "updated": "2019-09-15",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMarioBros3.png"
+    },
+    {
+      "type": "mappack",
+      "name": "The 1up",
+      "description": "The great 1up has\nbeen stolen it\ncould be the end",
+      "long_description": "The great 1up has been stolen, it could be the end...",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/rng5eivpumu956o/the_1-up.zip?dl=1",
+        "filename": "the_1-up.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2017-04-24",
+      "updated": "2017-04-24",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/The1up.png"
+    },
+    {
+      "type": "mappack",
+      "name": "The 1up Two",
+      "description": "These are all the\nlevels intended\nto be in the 1up",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/cklljysaf14lrgy/the_1-up_two.zip?dl=1",
+        "filename": "the_1-up_two.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2018-11-12",
+      "updated": "2018-11-12",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/The1upTwo.png"
+    },
+    {
+      "type": "mappack",
+      "name": "VS. Bubbleman",
+      "description": "Bubbleman stage\nfrom MegaMan 2 by\nFuriousHedgie.",
+      "version": "1.0.0",
+      "author": "capcom",
+      "download": {
+        "url": "https://www.dropbox.com/s/pndyel2azurep98/vs_bubbleman.zip?dl=1",
+        "filename": "vs_bubblemap.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2016-01-23",
+      "updated": "2016-01-23",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/VSBubbleman.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Syobon Action",
+      "description": "My attempt to\nport this level.",
+      "version": "1.0.0",
+      "author": "furioushedgie",
+      "download": {
+        "url": "https://www.dropbox.com/s/d1gzn1ts1dmwyxo/syobon_action.zip?dl=1",
+        "filename": "syobon_action.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-10-29",
+      "updated": "2020-10-29"
+    },
+    {
+      "type": "mappack",
+      "name": "SMB3 Tank",
+      "long_name": "Super Mario Bros. 3: Tank",
+      "description": "The classic tank\nlevel from Super\nMario Bros. 3",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/4fhazpsbffw2lkt/smb3_tank.zip?dl=1",
+        "filename": "smb3_tank.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2019-09-25",
+      "updated": "2019-09-25",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SMB3Tank.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Silh0uette",
+      "description": "Mario's exploring\nthe kingdom in a\nnew way",
+      "long_description": "Mario's exploring the Mushroom Kingdom in a new way",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/gb4iroqf37t8pah/silh0uette.zip?dl=1",
+        "filename": "silh0uette.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2018-11-12",
+      "updated": "2018-11-12",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Silh0uette.png"
+    },
+    {
+      "type": "mappack",
+      "name": "New Tricks",
+      "long_name": "Old Mari0, New Tricks",
+      "description": "New enemies.\nNew items.\nSame old Mario.",
+      "version": "1.0.0",
+      "author": "idiot9.0",
+      "download": {
+        "url": "https://www.dropbox.com/s/xfqup3hzhwsxclu/old_mari0_new_tricks.zip?dl=1",
+        "filename": "old_mari0_new_tricks.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2014-01-19",
+      "updated": "2014-01-19",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/OldMari0NewTricks.png"
+    },
+    {
+      "type": "mappack",
+      "name": "12 Maps Of XMas 4",
+      "long_name": "12 Maps Of Christmas 4",
+      "description": "A Christmas\ncalamity unfolds!\n(uses portals!)",
+      "version": "1.0.0",
+      "author": "aidan",
+      "download": {
+        "url": "https://forum.stabyourself.net/download/file.php?id=1600",
+        "filename": "12_maps_of_christmas_4.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2021-12-24",
+      "updated": "2021-12-24",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5476"
+    },
+    {
+      "type": "mappack",
+      "name": "12 Maps of XMas 3",
+      "long_name": "12 Maps Of Christmas 3",
+      "description": "Back again, for\nanother 12 maps\n(enable portals!)",
+      "version": "1.0.0",
+      "author": "aidan",
+      "download": {
+        "url": "https://www.dropbox.com/s/fztd1jeuj1g35oh/12_maps_of_christmas_3.zip?dl=1",
+        "filename": "12_maps_of_christmas_3.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-12-23",
+      "updated": "2020-12-23",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/12MapsOfChristmas3.png"
+    },
+    {
+      "type": "mappack",
+      "name": "Winter Search",
+      "description": "Peach disappeared\nwhen Mario was\ndecorating!",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "download": {
+        "url": "https://www.dropbox.com/s/2c0a1xs6uegp0kv/winter_search.zip?dl=1",
+        "filename": "winter_search.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2013-12-06",
+      "updated": "2013-12-06",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/WinterSearch.png"
+    },
+    {
+      "type": "enemy",
+      "name": "SMM2 Enemies",
+      "long_name": "Super Mario Maker 2 Enemies",
+      "description": "Use these in your\nown levels!",
+      "version": "1.0.0",
+      "author": "aidan",
+      "download": {
+        "url": "https://www.dropbox.com/sh/gumfplezo1pvezc/AACPSUzgsGA49zEK_Xsd9U_Aa?dl=1",
+        "filename": "SMM2_V9.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2021-07-03",
+      "updated": "2021-07-03",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMarioMaker2Enemies.png"
+    },
+    {
+      "type": "character",
+      "name": "SMM Costumes",
+      "long_name": "Super Mario Maker Costumes",
+      "description": "Play with these\ncostume\ncharacters!",
+      "version": "1.0.0",
+      "author": "alesan99",
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-07-11",
+      "updated": "2020-07-11",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=8&t=5366",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMarioMakerCostumes.png"
+    },
+    {
+      "type": "character",
+      "name": "Wide Mario",
+      "description": "Play as w i d e\nMario!\nsprites by emasti",
+      "version": "1.0.0",
+      "author": "subpixuru",
+      "download": {
+        "url": "https://www.dropbox.com/s/0x90ixmgqtc6zls/wide%20mario.zip?dl=1",
+        "filename": "wide_mario.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-06-21",
+      "updated": "2020-06-21",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/WideMario.png"
+    },
+    {
+      "type": "character",
+      "name": "Odyssey Mario",
+      "description": "Groundpound, wall\njump, spin, as\nOdyssey Mario!",
+      "long_description": "Ground pound, wall jump, and spin as Odyssey Mario!",
+      "version": "1.0.0",
+      "author": "williamfrog",
+      "download": {
+        "url": "https://forum.stabyourself.net/download/file.php?id=1221",
+        "filename": "odyssey_mario_v7.zip"
+      },
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "released": "2020-07-30",
+      "updated": "2020-07-30",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=8&t=5273&start=43",
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/OdysseyMario.png"
     }
   ]
 }
