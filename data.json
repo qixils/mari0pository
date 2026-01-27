@@ -969,10 +969,6 @@
       "long_description": "Ground pound, wall jump, and spin as Odyssey Mario!",
       "version": "1.0.0",
       "author": "williamfrog",
-      "download": {
-        "url": "https://forum.stabyourself.net/download/file.php?id=1221",
-        "filename": "odyssey_mario_v7.zip"
-      },
       "game_version": {
         "derivative": [
           "AE"
