@@ -69,6 +69,22 @@
     },
     {
       "type": "character",
+      "name": "Sonic Again",
+      "description": "Authentic physics\nflow! Collect the\n chaos emeralds!",
+      "version": "1.0.0",
+      "author": "WilliamFrog",
+      "homepage": "https://forum.stabyourself.net/viewtopic.php?t=5712",
+      "released": "2026-05-15",
+      "updated": "2026-05-15",
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SonicAgain.png"
+    },
+    {
+      "type": "character",
       "name": "Mari0 Kirby (V4)",
       "description": "Inhale enemies to\ncopy abilities in\na new playstyle",
       "version": "4.0.0",
@@ -82,25 +98,6 @@
       },
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=21&t=5533",
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Kirby.png"
-    },
-    {
-      "type": "character",
-      "name": "Sonic",
-      "description": "Play with this\nSonic character!",
-      "version": "1.0.0",
-      "author": "megabound",
-      "download": {
-        "url": "https://mari0pository-cdn.qixils.dev/s0nic.zip",
-        "filename": "s0nic.zip"
-      },
-      "released": "2020-06-22",
-      "updated": "2020-06-22",
-      "game_version": {
-        "derivative": [
-          "AE"
-        ]
-      },
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Sonic.png"
     },
     {
       "type": "mappack",
@@ -978,6 +975,25 @@
       "updated": "2020-07-30",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=8&t=5273&start=43",
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/OdysseyMario.png"
+    },
+    {
+      "type": "character",
+      "name": "Sonic",
+      "description": "Play with this\nSonic character!",
+      "version": "1.0.0",
+      "author": "megabound",
+      "download": {
+        "url": "https://mari0pository-cdn.qixils.dev/s0nic.zip",
+        "filename": "s0nic.zip"
+      },
+      "released": "2020-06-22",
+      "updated": "2020-06-22",
+      "game_version": {
+        "derivative": [
+          "AE"
+        ]
+      },
+      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/Sonic.png"
     }
   ]
 }
